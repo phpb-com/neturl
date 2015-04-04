@@ -2,7 +2,7 @@ package = "net-url"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/golgote/neturl.git",
+   url = "git://github.com/phpb-com/neturl.git",
    tag = "0.9"
 }
 
@@ -11,7 +11,7 @@ description = {
    detailed = [[
       This small Lua library provides a few functions to parse URL with querystring and build new URL easily.
    ]],
-   homepage = "https://github.com/golgote/neturl",
+   homepage = "https://github.com/phpb-com/neturl",
    license = "MIT/X11"
 }
 
